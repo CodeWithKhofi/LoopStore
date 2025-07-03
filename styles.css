@@ -90,7 +90,7 @@ span{
     align-items: center;
     justify-content: center;
     flex-direction: row;
-    gap: 200px;
+    gap: px;
     /* background-color: blue; */
 }
 
